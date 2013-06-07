@@ -4,7 +4,7 @@ import java.util.List;
 public interface CPersonService {
  
     /**
-     * 
+     * Hola
      * 
      */
     public List<CPerson>findAll();
