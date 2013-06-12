@@ -1,3 +1,4 @@
+package registration.system;
 
 public class CPerson {
 	private String PersonId;
